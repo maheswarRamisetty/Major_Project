@@ -1,0 +1,15 @@
+[{"stream_name":"stderr","time":3.072524987,"data":"/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":3.072611539,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":3.084973099,"data":"[NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.\n"}
+,{"stream_name":"stderr","time":3.124382088,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":6.34437029,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":6.344419558,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.346231289,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.348704875,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.348871853,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.349249073,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.349464655,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.349694436,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.3540347950000005,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":6.355658714,"data":"[NbConvertApp] Writing 19080778 bytes to __results__.html\n"}
+]
